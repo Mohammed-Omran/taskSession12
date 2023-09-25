@@ -1,0 +1,24 @@
+header {
+    background-color: #007bff;
+    text-align: center;
+    padding: 20px;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+#fetch-button {
+    background-color: #007bff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#data-container {
+    margin-top: 20px;
+}
+
+
